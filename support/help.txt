@@ -1,0 +1,2 @@
+Использвал локальный сервис XAMPP.
+Для старта необходимо в url строку записать localhost/work/index.php/start
