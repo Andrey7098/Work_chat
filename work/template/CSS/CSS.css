@@ -1,0 +1,91 @@
+.button{
+    width: 120px;
+    height: 30px;
+    background: mediumblue;
+    border: solid 0px;
+    border-radius: 3px;
+    display: inline-block;
+    color:aliceblue;
+    font-size: 22px;
+    text-align: center;
+}
+.center{
+    margin-left: 40%;
+    margin-top: 15%;
+}
+.input{
+    height: 26px;
+    width: 220px;
+    margin-top:2px;
+    border-radius: 3px;
+}
+.text_chat{
+    margin-left: 80px;
+    color: #003333	;
+    font-size: 50px;
+}
+body{
+    background: #fdfdfd;
+}
+.text_chat_login{
+    
+    color: #003333	;
+    font-size: 40px;
+}
+.form_chat{
+    width: 600px; 
+    height:300px; 
+    border: solid 1px;
+    overflow: hidden;
+    overflow-y: auto ;
+    
+    box-shadow: 1px 2px 2px 1px rgba(0,0,0,40%),inset 1px 2px 2px 1px rgba(0,0,0,40%);
+}
+.center_form{
+    margin-left: 120px;
+}
+.sms_chat{
+    height:40px;
+    width: auto;
+    border: solid 1px;
+    background: rgba(10, 0, 255, 0.7);
+    margin: 2px 5px 2px 5px;
+    
+}
+.sms1_chat{
+    height:40px;
+    width: auto;
+    border: solid 1px;
+    background: rgba(0, 255, 226, 0.7);
+    margin: 2px 5px 2px 5px;
+}
+.left{
+    margin-left: 52px;
+    margin-top: 3px;
+}
+.exit{
+    display: inline-block;
+}
+.ridth{
+    margin-left: 900px;
+    
+}
+.center_chat{
+    margin: 100px 0px 0 300px    ;
+}
+.sms{
+    display: inline;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.fixed{
+    display: inline;
+    
+}
+.user{
+    display: inline-block;
+    margin-left: 100px;
+}
+.time{
+    display: inline-block;
+}
